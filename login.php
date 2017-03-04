@@ -19,8 +19,7 @@
 	</head>
 	<body>
 	
-		
-		<!-- WRAPPER -->
+				<!-- WRAPPER -->
 		<div class="wrapper">
 		
 			<!-- HEADER -->
@@ -46,7 +45,7 @@
 			<!-- MAIN -->
 			<div id="main" class="cf">
 				<div class="line-heading">
-					<center><h2>Log In</h2></center>
+					<center><h2>Login </h2></center>
 				</div>
 				<form method="POST" action="<?php echo base_url();?>index.php/clogin/user">
 			<table border="0" align="center">
