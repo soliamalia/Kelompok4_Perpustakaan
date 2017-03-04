@@ -50,7 +50,7 @@
 				</div>
 				<center><form action="<?php echo base_url();?>index.php/chome/cari" method="post">
 					<tr>
-					<td>Silahkan Pilih</td>
+					<td>Pilih berdasarkan</td>
 					<td><select name="pilih">
 					<option value='buku_judul'>Judul Buku</option>
 					<option value='buku_pengarang'>Pengarang</option>
