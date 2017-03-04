@@ -46,6 +46,7 @@
 			<!-- MAIN -->
 			<div id="main" class="cf">
 			<div class="tagline">Welcome To Our Library</div>
+				<div class="tagline">(Selamat datang di Perpustakaan Kita)</div>
 				<!-- SLIDER -->
 				<div class="slider-wrapper">
 		            <div id="slider" class="nivoSlider">
