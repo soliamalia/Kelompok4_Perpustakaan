@@ -51,7 +51,7 @@
 				</div>
 				<center>
 				<h1>SMAN 2 Bandung Library<br><br>
-				Menyediakan berbagai jenis buku</h1>
+				Menyediakan berbagai jenis buku untuk menunjang failitas pendidikan untuk meningkatkan pembelajaran siswa </h1>
 				</center>
 				
 			<!-- ENDS MAIN -->
