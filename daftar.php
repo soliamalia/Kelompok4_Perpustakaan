@@ -47,7 +47,7 @@
 			<div id="main" class="cf">
 			
 				<div class="line-heading">
-					<center><h2>Daftar Anggota</h2></center>
+					<center><h2>Daftar Akun Perpustakaan</h2></center>
 				</div>
 				<?php
 $today="SELECT DATE(NOW()) AS 'sekarang'";
@@ -90,6 +90,14 @@ $nextid = 'PM'.sprintf('%03s', $nextNoUrut);
 			<tr>
 				<td>Foto</td>
 				<td><input type="file" name="peminjam_foto"></td>
+			</tr>
+			<tr>
+				<td>Username</td>
+				<td><input type="text" name="username"></td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td><input type="password" name="password"></td>
 			</tr>
 			<tr>
 				<td colspan="2"><input type="submit" name="sumbit" value="Simpan">
