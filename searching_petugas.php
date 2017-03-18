@@ -102,7 +102,7 @@ endforeach;
 		<script src="js/nivoslider.js"></script>
 		<script src="js/tabs.js"></script>
 		
-	
+	<!-- percobaan -->
 		<!-- ENDS JS -->
 	</body>
 </html>
